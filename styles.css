@@ -1,0 +1,15 @@
+.tableheader {
+background-color: Red;
+color:white;
+font-weight:bold;
+}
+.tablerow {
+background-color: Green;
+color:white;
+}
+.message {
+color: #FF0000;
+font-weight: bold;
+text-align: center;
+width: 100%;
+}
